@@ -1,3 +1,7 @@
 PyQt5
 PyQt-Fluent-Widgets
 pywin32
+pyautogui
+pytesseract
+pillow
+opencv-python
