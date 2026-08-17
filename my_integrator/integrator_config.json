@@ -1,0 +1,12 @@
+{
+    "자동 로그인": {
+        "path": "./scripts/auto_login.py",
+        "window_title": "거상 로그인 도우미",
+        "args": ""
+    },
+    "자동 사냥": {
+        "path": "./scripts/auto_hunt.py",
+        "window_title": "자동 사냥 스크립트",
+        "args": ""
+    }
+}
