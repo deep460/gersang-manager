@@ -1,6 +1,21 @@
-venv/
-__pycache__/
-*.pyc
+# 구버전 스크립트 및 테스트 폴더 무시
+grlogin*/
+src*/
+herb helper*/
+debug_*/
+AyuGram Desktop/
+
+# 테스트용 단일 스크립트 파일 무시
+*테스트*.py
+main_integrator*.py
+summary_aggregator.py
+simple_sender.py
+window_inspector.py
+import te.py
+
+# 기타 데이터 및 설정 파일
+*.json
+*.txt
 *.xlsx
 *.log
 *.session
