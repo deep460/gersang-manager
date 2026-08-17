@@ -20,3 +20,6 @@ import te.py
 *.log
 *.session
 *.png
+
+Inventory*
+Inventory_*
